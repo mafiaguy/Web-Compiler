@@ -8,5 +8,5 @@
         About
     </h2>
     <p>
-        WebSharpCompiler is a web based .NET 4 C# compiler by Dominic Millar</p>
+        WebSharpCompiler is a web based .NET 4 C# compiler by Sid & Team </p>
 </asp:Content>
